@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vedant!
 
-<!--
-**vedantmote0008-alt/vedantmote0008-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building, learning, and collaborating within the tech community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on exciting projects and always eager to learn new technologies.
+- 🌱 I’m constantly exploring new tools, frameworks, and best practices in software development.
+- 💬 Ask me about anything tech-related or open source—I'm always happy to chat!
+
+## 🛠️ Skills
+
+- **Languages:** 
+- **Frameworks/Libraries:** 
+- **Tools:** 
+
+## 🌟 Featured Projects
+
+- [Project 1](#) — Short description.
+- [Project 2](#) — Short description.
+- [Project 3](#) — Short description.
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn](#)
+- **Twitter/X:** [Your Twitter](#)
+- **Personal Website/Portfolio:** [Your Website](#)
+- **Email:** [Your Email](#)
+
+---
+
+Thanks for stopping by! 🚀
